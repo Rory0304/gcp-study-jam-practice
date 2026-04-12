@@ -7,7 +7,7 @@
 4) 
 
 
-### Skills: Build a Website on Google Cloud
+### Skills2: Build a Website on Google Cloud
 1) [Deploy Your Website on Cloud Run](https://www.skills.google/course_templates/638/labs/612232)
 2) Hosting a Web App on Google Cloud using Compute Engine
 
